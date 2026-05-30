@@ -1,0 +1,6 @@
+{
+  "name": "Super Mart Portal",
+  "description": "An interactive Super Mart portal featuring store switching, customized colors, product browsing, dynamic cart, and full inventory management for adding and managing products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
